@@ -1,4 +1,5 @@
-| Name | Place | Contact | Petfinder page | Animals up for adoption | |:=====|:======|:========|:===============|:========================|
+| Name | Place | Contact | Petfinder page | Animals up for adoption |
+|:-----|:------|:--------|:---------------|:------------------------|
 | Destiny's Road Animal Rescue | Palmer, MA | 413-887-9220 | http://www.petfinder.com/shelters/MA496.html | https://petfinder.com/pet-search?shelter_id=MA496 |
 | New Beginnings Dog Rescue | Bondsville, MA | Email only | http://www.petfinder.com/shelters/MA321.html | https://petfinder.com/pet-search?shelter_id=MA321 |
 | Here Today Adopted Tomorrow Animal Sanctuary, Inc. | Brimfield, MA | 413 324 8224 | http://www.petfinder.com/shelters/MA468.html | https://petfinder.com/pet-search?shelter_id=MA468 |
